@@ -1,3 +1,3 @@
-# Pathrise-Website
+# Pathways-Website
 
-Here is a quick layout and animation idea for Pathrise's website. 
+Here is a quick layout and animation idea for Pathways' website. 
